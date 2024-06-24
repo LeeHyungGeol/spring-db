@@ -1,3 +1,4 @@
 rootProject.name = 'springDB'
 
 include 'itemservice-db'
+include 'tx'
